@@ -1,2 +1,2 @@
 # food-delivery-template
-A simple website for food delivery. 
+A simple template for food delivery. 
